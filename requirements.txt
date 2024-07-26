@@ -12,3 +12,5 @@ scikit-learn==1.4.2
 wordcloud==1.9.3
 gensim
 SciPy
+google-api-python-client
+statsmodels
