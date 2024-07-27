@@ -13,7 +13,7 @@ Il progetto sarà diviso in due parti differenti e tratterà come argomento il c
 - Verrà effettuata la sentiment analysis (positivo, negativo) non sul testo complessivo, ma su ogni singola frase.
 - Verrà effettuata l’emotion analysis (es. gioia, paura, rabbia) non sul testo complessivo, ma su ogni singola frase.
 - Ogni video segue una sequenza temporale, quindi per ogni frase del testo del video verrà effettuata un’analisi di come cambia sia il sentiment che l’emotion.
-- Per ogni video, verranno applicate tecniche di topic modeling sul testo audio, con l’estrazione massima di 5 topic in modo tale che vengano individuati gli argomenti chiave.
+- Per ogni video, verranno applicate tecniche di topic modeling sul testo dell'audio, con l’estrazione massima di 5 topic in modo tale che vengano individuati gli argomenti chiave.
 - Infine, verrà effettuata un’analisi comparativa tra i video scelti, confrontando sentiment, emozioni e topic emersi.
 
 ### 2. Nella seconda parte del progetto verrà effettuata un’analisi dei commenti estratti da video su YouTube:
